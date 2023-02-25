@@ -95,22 +95,21 @@
 <a href="https://medium.com/rananzr" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
+<a href="https://discord.com/channels/@me" target="_blank">
+<img src=https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) alt=discord style="margin-bottom: 5px;" />
 </div>  
-  
+
 
 <br/>  
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ranazr&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranazr&theme=radical&show_icons=true)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hilaldedek&show_icons=true&locale=en&layout=compact&theme=radical" alt="ovi" />  
 <br/>  
-
 <div align="center"><img src="https://raw.githubusercontent.com/madushadhanushka/github-readme/output/github-contribution-snake.svg">
-
-  
-
-<br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=rnzr9616&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
 

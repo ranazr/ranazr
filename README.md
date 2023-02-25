@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=855BF7&width=435&lines=Hi%2C+I'm+Rana+%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;AWS+Solution+Architect+%26+DevOps+Engineer;Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=855BF7&width=435&lines=Hi%2C+I'm+Rana+%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;I'm+AWS+Solution+Arc.+%26+DevOps+Eng.;Love+to+learn+new+things+)](https://git.io/typing-svg)
 
 
 

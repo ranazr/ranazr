@@ -8,7 +8,7 @@
 ### <div align="center"></div>  
   
 
-- 🔭 I’m currently working on [Clarusway](https://clarusway.com/)  
+- 🔭 I’m currently studying in [Clarusway](https://clarusway.com/)  
   
 
 - 🌱 I’m currently learning AWS services and DevOps tools.  

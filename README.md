@@ -3,14 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=855BF7&width=435&lines=Hi%2C+I'm+Rana+%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;AWS+Solution+Architect+%26+DevOps+Engineer;Always+learning+new+things)](https://git.io/typing-svg)
 
 
-<img src="https://raw.githubusercontent.com/madushadhanushka/github-readme/output/github-contribution-snake.svg">
 
-
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
 
 ### <div align="center"></div>  
   
@@ -29,6 +22,11 @@
 
 <br/>  
 
+
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 40%" />
+</div>  
+  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -108,7 +106,7 @@
 
 <br/>  
 
-
+<img src="https://raw.githubusercontent.com/madushadhanushka/github-readme/output/github-contribution-snake.svg">
 
   
 

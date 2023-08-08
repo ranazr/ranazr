@@ -1,10 +1,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=855BF7&width=435&lines=Hi%2C+I'm+Rana+%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;I'm+AWS+Solution+Arc.+%26+DevOps+Eng.;Love+to+learn+new+things+)](https://git.io/typing-svg)
 
-
-{{< credly eb049d31-599a-49fc-af52-7e2226c34325 >}}
-
-<img width="105" height="105" alt="" src="https://images.credly.com/images/eb049d31-599a-49fc-af52-7e2226c34325/image.png"> 
+<a href="https://www.credly.com/badges/eb049d31-599a-49fc-af52-7e2226c34325/public_url" target="_blank"><img style="margin: 125px" src="https://s4.aconvert.com/convert/p3r68-cdx67/an14o-gcokr.svg" alt="AWS Certified Cloud Practitioner" height="125" /></a>  
+ 
 
 ### <div align="center"></div>  
 

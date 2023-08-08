@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=855BF7&width=435&lines=Hi%2C+I'm+Rana+%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;I'm+AWS+Solution+Arc.+%26+DevOps+Eng.;Love+to+learn+new+things+)](https://git.io/typing-svg)
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="eb049d31-599a-49fc-af52-7e2226c34325" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+![aws-certified-cloud-practitioner](https://github.com/ranazr/ranazr/assets/90064938/ab9a0a42-0a53-4c82-81b9-95922d4460d6)
 
 
 ### <div align="center"></div>  

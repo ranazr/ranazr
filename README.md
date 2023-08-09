@@ -2,35 +2,22 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=855BF7&width=435&lines=Hi%2C+I'm+Rana+%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;I'm+AWS+Solution+Arc.+%26+DevOps+Eng.;Love+to+learn+new+things+)](https://git.io/typing-svg)
 
 <a href="https://www.credly.com/badges/eb049d31-599a-49fc-af52-7e2226c34325/public_url" target="_blank"><img style="margin: 125px" src="https://s4.aconvert.com/convert/p3r68-cdx67/an14o-gcokr.svg" alt="AWS Certified Cloud Practitioner" height="125" /></a>  
- 
 
-### <div align="center"></div>  
-
-<br/>  
-
-🚀 About Me
+## 🪩 About Me
   
-Hello there! I'm Rana, a dedicated software developer with a passion for exploring the boundless realms of technology. As someone deeply intrigued by the intersections of cloud computing and DevOps methodologies, I'm on an exciting journey to master these domains.
+### 👩🏽‍💻 Hello there! I'm Rana, a dedicated DevOps Engineer with a passion for exploring the boundless realms of technology. As someone deeply intrigued by the intersections of cloud computing and DevOps methodologies, I'm on an exciting journey to master these domains.
 
-🌱 Currently, my focus is on enriching my knowledge of AWS services and DevOps tools. I'm fascinated by the power of cloud technologies to revolutionize businesses and the efficiency that DevOps brings to the development lifecycle. 
+#### 💻 Currently, my focus is on enriching my knowledge of AWS services and DevOps tools. I'm fascinated by the power of cloud technologies to revolutionize businesses and the efficiency that DevOps brings to the development lifecycle. 
 
-❓ Feel free to reach out if you're curious about cloud computing, data analytics, or anything tech-related. I'm always eager to share insights, learn from discussions, and collaborate on intriguing projects.
+#### 💬 Feel free to reach out if you're curious about cloud computing, data analytics, or anything tech-related. I'm always eager to share insights, learn from discussions, and collaborate on intriguing projects.
 
-⚡ Fun fact: DevOps is like a recipe: blend development and operations, add a dash of automation, and serve up applications faster than you can say 'continuous integration'!
+ #### 🪄 Fun fact: DevOps is like a recipe: blend development and operations, add a dash of automation, and serve up applications faster than you can say 'continuous integration'!
 
 Looking to the future, I'm excited to contribute to innovative projects that leverage the strengths of the cloud, harness the potential of data, and embrace the principles of DevOps. Join me on this exciting journey, and together, we can shape the technology landscape!
 
-<br/>  
-
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 40%" />
-</div>  
-  
-
-## My Skill Set  
+ 
+## 🍔 My Skill Set  
 <table><tr><td valign="top" width="33%">
-
 
 
 ### Data Analytics  

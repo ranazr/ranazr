@@ -152,12 +152,4 @@ Looking to the future, I'm excited to contribute to innovative projects that lev
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ranazr&&style=flat-square" align="center" />
 </div>  
-  
-
-<br/>  
-
-
-
-<br />
-
-----
+ 

@@ -126,16 +126,12 @@ Looking to the future, I'm excited to contribute to innovative projects that lev
 
 ## Github Stats  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranazr&hideBorder&theme=radical&show_icons=true)
+![Rana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranazr&hideBorder&theme=radical&show_icons=true)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ranazr&hideBorder&show_icons=true&locale=en&layout=compact&theme=radical" alt="ovi" />  
 <br/>  
 <div align="center"><img src="https://raw.githubusercontent.com/madushadhanushka/github-readme/output/github-contribution-snake.svg">
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=rnzr9616&cover_image=true&hideBorder&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
-
-<br/>  
-
+<br/> 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ranazr&&style=flat-square" align="center" />
 </div>  
